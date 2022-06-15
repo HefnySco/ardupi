@@ -7,7 +7,7 @@
   (title_block
     (title "ArduPi")
     (date "2022-06-06")
-    (rev "0.1.3.1")
+    (rev "0.1.3.2")
     (comment 1 "Author: Muhammad Hefny")
     (comment 2 "Author: Shaun Lloyd")
   )
@@ -2181,11 +2181,6 @@
   )
 
   (no_connect (at 497.1244 220.2016) (uuid 4fe9afc1-5b4e-46d0-969a-d94c6f048758))
-
-  (bus_entry (at 238.506 171.704) (size 2.54 2.54)
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 2a1f59d4-bb8c-4faf-bb9f-1ddc429ff6af)
-  )
 
   (wire (pts (xy 549.402 277.114) (xy 554.482 277.114))
     (stroke (width 0) (type default) (color 0 0 0 0))
